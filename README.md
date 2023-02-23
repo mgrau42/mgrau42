@@ -1,4 +1,6 @@
-<h1 align="center">Manuel A. Grau</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mgrau42/mgrau42/main/images/mg2.png") /> 
+ </p>
 <h3 align="center"> Software developer, creator, proud owner of 3 cats 🙀 🐱 😼 and a dog 🐶</h3>
 <br>
 
@@ -21,9 +23,9 @@
 - 💬 Ask me about **C, Python, git or anything really, ill figure it out, im a problem solving kind of person**
 
 <br>
-
-<img src="https://www.42madrid.com/wp-content/uploads/2021/10/DANI-1-WEB.jpg" width="700" height="393" alt="ManuGrau" class="center" /> 
-
+<p align="center">
+  <img src="https://www.42madrid.com/wp-content/uploads/2021/10/DANI-1-WEB.jpg" width="700" height="393" alt="ManuGrau" /> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mgrau42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="mgrau42" height="30" width="40" /></a>
