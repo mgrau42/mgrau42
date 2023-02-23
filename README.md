@@ -60,26 +60,26 @@
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" width="40" height="40" /> </a>&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="php" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40" height="40" /> </a>&nbsp;&nbsp;
   </p>
   
   <p align="left">
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Visual Studio Code" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Pycharm" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Jupyter Notebooks" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="emacs" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Vim" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Notepad ++" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebooks" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="emacs" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://notepad-plus-plus.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="Notepad ++" width="40" height="40" /> </a>&nbsp;&nbsp;
   </p>
   
    <p align="left">
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Scrum" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Jira" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Clickup" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Trello" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Slack" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Discord" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Telegram" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://taskcallapp.com/images/vendors/jira/JiraIcon.png" alt="Jira" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://clickup.com/" target="_blank" rel="noreferrer"> <img src="https://clickup.com/images/for-se-page/clickup.png" alt="Clickup" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://trello.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/wiki-discord-france/images/2/2d/Discord-Logo-Color.png/revision/latest?cb=20190714194655&path-prefix=fr" alt="Discord" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40" /> </a>&nbsp;&nbsp;
   </p>
   
   <p align="left">
@@ -87,10 +87,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Bash" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="HTML5" width="40" height="40" /> </a>&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="CSS" width="40" height="40" /> </a>&nbsp;&nbsp;
-   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5iGGIZHHvZBaHsZf_EqDc_Fyoy7mKOXoNoBWpRzzDtVWQS5r75LcY7GsvdEH5Hv3UG8&usqp=CAU" alt="Bash" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40" /> </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="40" height="40" /> </a>&nbsp;&nbsp;
+   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgrau42&show_icons=true&locale=en&layout=compact&theme=radical" alt="mgrau42" /></p>
