@@ -1,13 +1,16 @@
 <h1 align="center">Manuel A. Grau</h1>
 <h3 align="center"> Software developer, creator, proud owner of 3 cats 🙀 🐱 😼 and a dog 🐶</h3>
+<br>
 
-Currently workning on:
+### Currently workning on:
 
 - ✍️ My [readme generator project with open AI](https://github.com/mgrau42/Readme-Creator-Tool) mostly for personal, it is giving me some insights in prompt engineering too!
 
 - 👁️ Fine tunning a pre-trained model for image Recognition (Transfer Learning)
 
-More things about me:
+<br>
+
+### More things about me:
 
 - 👨‍🎓 Im a student at 42 Madrid! They even [interviewed me](https://www.42madrid.com/actualidad/42-madrid-fall-jam-videojuegos-de-ayer-y-de-hoy/) because i was leading the videogame desing leage at the time!
 
@@ -17,7 +20,9 @@ More things about me:
 
 - 💬 Ask me about **C, Python, git or anything really, ill figure it out, im a problem solving kind of person**
 
-<img src="https://www.42madrid.com/wp-content/uploads/2021/10/DANI-1-WEB.jpg" alt="bootstrap" width="700" height="393" /> 
+<br>
+
+<img src="https://www.42madrid.com/wp-content/uploads/2021/10/DANI-1-WEB.jpg" width="700" height="393" alt="ManuGrau" class="center" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,9 +43,9 @@ More things about me:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp; 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgrau42&show_icons=true&locale=en&layout=compact" alt="mgrau42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgrau42&show_icons=true&locale=en&layout=compact&theme=radical" alt="mgrau42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgrau42&show_icons=true&locale=en" alt="mgrau42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgrau42&show_icons=true&locale=en&theme=radical" alt="mgrau42" /></p>
 
 Desarrollador de Software - Comunidad de Madrid - España
 
