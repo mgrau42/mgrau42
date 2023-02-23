@@ -24,7 +24,7 @@
 
 <br>
 <p align="center">
-  <img src="https://www.42madrid.com/wp-content/uploads/2021/10/DANI-1-WEB.jpg" width="700" height="393" alt="ManuGrau" /> 
+  <img src="https://raw.githubusercontent.com/mgrau42/mgrau42/main/images/MG3.png" alt="ManuGrau" /> 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
