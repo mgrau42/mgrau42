@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mgrau42/mgrau42/main/images/Manuel%20A.%20GRAU.png") /> 
  </p>
-<h3 align="center"> Software developer, creator, proud owner of 3 cats 🙀 🐱 😼 and a dog 🐶</h3>
+<h2 align="center"> Software developer, creator, proud owner of 3 cats 🙀 🐱 😼 and a dog 🐶</h2>
 <br>
 
 ### Currently workning on:
