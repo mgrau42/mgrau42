@@ -10,6 +10,10 @@
 
 - 👁️ Fine tunning a pre-trained model for image Recognition (Transfer Learning)
 
+- 🤖 Creating a working android chat app using LLMs reducing hallucinations by first recognizing the key points of a conversation and providing a greater context for the chatbot from them
+
+- 🐱➕➕  Still Learning at 42 Madrid, Working on my C++ coding skills, Leading the AI League.
+
 <br>
 
 ### More things about me:
