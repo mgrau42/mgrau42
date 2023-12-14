@@ -97,9 +97,9 @@
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;
   </p>
 
-<p><img align="left" src="https://github-readme-stats-manuelgb94s-projects.vercel.app/api/top-langs?username=mgrau42&show_icons=true&locale=en&layout=compact&theme=radical" alt="mgrau42" /></p> 
+<p><img align="left" src="https://github-readme-stats-manuelgb94s-projects.vercel.app/api/top-langs?username=mgrau42&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="mgrau42" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-manuelgb94s-projects.vercel.app/api?username=mgrau42&show_icons=true&locale=en&theme=radical" alt="mgrau42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-manuelgb94s-projects.vercel.app/api?username=mgrau42&show_icons=true&locale=en&theme=radical&count_private=true" alt="mgrau42" /></p>
 
 Desarrollador de Software - Comunidad de Madrid - España
 
